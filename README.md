@@ -1,7 +1,7 @@
 <!-- header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihwan's%20GitHub&fontSize=90)
 ### Hi there 👋
-:fire::sparkles:
+:fire::sparkles: <-- emoji -->
 <!--
 **sjihwan/sjihwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
